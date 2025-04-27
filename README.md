@@ -1,6 +1,6 @@
 # 👨‍💻 Fagner | Dev in Progress
 
-Hey! I'm Fagner, a **Systems Analysis and Development** student focused on **Python, AI 🤖.
+Hey! I'm Fagner, a **Systems Analysis and Development** student focused on Python, AI 🤖**.
 
 ## 🚀 Currently:
 
@@ -10,11 +10,11 @@ Hey! I'm Fagner, a **Systems Analysis and Development** student focused on **Pyt
   
 ## 🧰 Tech Stack:
 
-- Python | Java | C++ | Kotlin | HTML | CSS | JavaScript`  
+- Python | Java | C++ | Kotlin | HTML | CSS | JavaScript` 
 - GitHub | REST APIs | Azure Fundamentals
-- | Pandas | Matplotlib`
+- | Pandas | Matplotlib
 
-## 📌 Projects:
+## 📌 Personal Projects:
 
 - 🔒 File Encryption with Fernet  
 - ⚙️ File Organizer Script  
